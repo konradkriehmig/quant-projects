@@ -1,14 +1,10 @@
 # quant-projects
 
-# Momentum Strategy (Template)
-# Author: Your Name
+# Author: Konrad Kriehmig
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# TODO:
-# - Load historical data
-# - Calculate 6-month momentum
-# - Rank stocks
-# - Backtest performance
+#Momentum Strategy: A basic momentum strategy based on price movements
+#Mean Reversion Strategy: A strategy based on the assumption that asset prices will revert to their mean
